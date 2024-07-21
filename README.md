@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udara-peiris&label=Profile%20views&color=0e75b6&style=flat" alt="udara-peiris" /> </p>
 
 
-<p align="center"> 📫 How to reach me **udashan88@gmail.com** </p>
+<p align="center"> 📫 How to reach me <a href="udashan88@gmail.com target="blank">"**udashan88@gmail.com**</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
